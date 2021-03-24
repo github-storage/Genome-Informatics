@@ -1,2 +1,2 @@
 # Genome-Informatics
-School projcts for Genome Informatics subject.
+School projects for Genome Informatics subject.
